@@ -28,6 +28,14 @@
     {
       "id": "all",
       "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
